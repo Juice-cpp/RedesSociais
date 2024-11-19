@@ -10,8 +10,10 @@ public class Main {
         Twitter tt = new Twitter("Junin123", 96, "Twitter");
         Instagram ig = new Instagram("Junin123", 667, "Instagram");
 
+        Twitter ttFake = new Twitter("Pimpolho 1", 345, "Twitter");
 
-        RedeSocial[] redesSociais = new RedeSocial[4];
+
+        RedeSocial[] redesSociais = new RedeSocial[5];
         redesSociais[0] = tt;
         redesSociais[1] = fb;
         redesSociais[2] = ig;

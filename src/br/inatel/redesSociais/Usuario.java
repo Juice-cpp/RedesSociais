@@ -22,8 +22,4 @@ public class Usuario {
         return redesSociais;
     }
 
-    public String getNome() {
-        return nome;
-    }
-
 }
